@@ -1,2 +1,2 @@
-# python-lab1
+# python-labы
 2 spisok
